@@ -8,7 +8,7 @@
 * Its an september LeetCode challenge that I have taken to improve my coding.<br>
 (Starting date- 01/sept/2020 to ending date-: 30/sept/2020)
 
-## These codes are in both language C++ as well as Java.
+## These codes are in both language C++ as well as in Java.
 <br>
 
 ## Java
