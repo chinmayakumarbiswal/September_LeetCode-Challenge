@@ -10,7 +10,7 @@
 <br>
 
 ## Java
-* [Largest Time for Given Digits](Code/Day1_Code)
+* [Largest Time for Given Digits](Code/Day1_Code.java)
 
 
  
