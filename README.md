@@ -7,10 +7,10 @@
 ## Welcome to my repository
 * Its an september LeetCode challenge that I have taken to improve my coding.<br>
 (Starting date- 01/sept/2020 to ending date-: 30/sept/2020)
-
-## These codes are in both language C++ as well as in Java.
 <br>
 
 ## Java
-## C++
+* [Largest Time for Given Digits](Code/Day1_Code)
+
+
  
