@@ -11,11 +11,9 @@
 
 ## Java
 * [Largest Time for Given Digits](Code/Day1_Code.java)
-<<<<<<< HEAD
 * [Contains Duplicate III](Code/Day2.java)
 * [Repeated Substring Pattern](Code/Day3.java)
-=======
->>>>>>> e3b4be16147554b704e9d512961af1342b24b26b
+* [Partition Labels](Code/Day4.java)
 
 
  
