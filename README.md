@@ -16,4 +16,5 @@
 * [Partition Labels](Code/Day4.java)
 * [All Elements in Two Binary Search Trees](Code/Day5.java)
 * [Image Overlap](Code/Day6.java)
+* [Word Pattern](Code/Day7.java)
  
